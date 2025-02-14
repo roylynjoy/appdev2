@@ -1,0 +1,5 @@
+1. Introduction (100-150 words)
+	I am Roylyn Dicdican, a girl who loves to learn new knowledge, unlearn the wrong perception, and be willing to be corrected. When it comes to programming, I am not that knowledgeable; I am more interested in designing, but I also have the willingness inside me to study and improve. In terms of backend development, I do not have experience in using Node.js, but I am familiar with it. I have seen it on many platforms when I am scrolling on social media and searching about technologies, but I do not remember the exact scenario, videos, or context of it.
+
+2. Course Expectations (200-300 words)
+	
