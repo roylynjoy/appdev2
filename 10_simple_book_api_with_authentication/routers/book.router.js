@@ -8,7 +8,7 @@ const  {
     addNewBook,
     updateBook,
     deleteBook
-} = require('../controller/book.controller')
+} = require('../controllers/book.controller')
 
 router.get('/', welcomeMessage);
 

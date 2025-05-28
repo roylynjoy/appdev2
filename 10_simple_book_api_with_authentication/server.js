@@ -1,9 +1,9 @@
 const express = require('express');
 const mongoose = require("mongoose");
 const app = express();
-const { authenticateToken } = require("./src/middlewares/jwt-token.middleware");
-const BookRouter = require('./src/routers/book.router');
-const AuthRouter = require('./src/routers/auth.router');
+const { authenticateToken } = require("./middlewares/jwt-token.middleware");
+const BookRouter = require('./routers/book.router');
+const AuthRouter = require('./routers/auth.router');
 require("dotenv").config();
 
 const PORT = process.env.PORT;
